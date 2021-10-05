@@ -1,4 +1,4 @@
-name: My First GitHub Action
+name: CodeGuru test
 on: [push]
 jobs:
   My-Action:
