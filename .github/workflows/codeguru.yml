@@ -1,5 +1,5 @@
 name: CodeGuru test
-on: [push]
+on: workflow_dispatch
 jobs:
   My-Action:
     runs-on: ubuntu-latest
